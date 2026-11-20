@@ -22,5 +22,8 @@ SOFTWARE.
 
 ---
 
-Image Credits:
-The cat images used by this project are sourced from https://www.kaggle.com/datasets/crawford/cat-dataset and are in the Public Domain.
+Font License:
+The Bricolage Grotesque font files in `fonts/` are Copyright 2022 The Bricolage Grotesque Project Authors and licensed under the SIL Open Font License, Version 1.1 (see `fonts/OFL.txt`).
+
+Image Attribution:
+The cat images used by this project are sourced from the academic CAT Dataset (Weiwei Zhang, Jian Sun, and Xiaoou Tang, "Cat Head Detection—How to Effectively Exploit Shape and Texture Features," ECCV 2008; mirrored at https://www.kaggle.com/datasets/crawford/cat-dataset). These images originate from Flickr and remain subject to their respective original rights holders; they are not covered by the MIT License above. For takedown or attribution requests, contact dev@jantokarzewski.pl.

@@ -25,5 +25,6 @@ npm run dev
 
 ## License
 
-Code is licensed under the [MIT License](./LICENSE).
-Cat images are from the [Cat Dataset on Kaggle](https://www.kaggle.com/datasets/crawford/cat-dataset) (Public Domain).
+- Code is licensed under the [MIT License](./LICENSE).
+- The self-hosted `Bricolage Grotesque` font is licensed under the [SIL Open Font License 1.1](./fonts/OFL.txt).
+- Cat images are sourced from the academic CAT Dataset (Zhang, Sun, Tang — ECCV 2008, mirrored on [Kaggle](https://www.kaggle.com/datasets/crawford/cat-dataset)). Original image rights remain with their respective photographers; contact `dev@jantokarzewski.pl` for removal requests.
